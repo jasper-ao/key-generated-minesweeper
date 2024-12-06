@@ -1,4 +1,4 @@
-# key_generated_minesweeper
+# key-generated-minesweeper
 horribly coded minesweeper with key-generated map, can be used for competitive purposes
 
 ---
